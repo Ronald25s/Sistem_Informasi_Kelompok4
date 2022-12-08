@@ -11,6 +11,7 @@ Nama Anggota Kelompok :
 # Nama Projek "Laracamp" 
 Spesifikasi Stack dan Framework :
  - Backend     : PHP (Laravel)
+   - Version (minimum PHP 8.1.0, Laravel '9.3.11.0')
  - Frontend    : Bootstrap
  - Web Browser : Chrome, Mozila, IE, Opera
  - Software    : XAMPP, MsExcel, GIT & GITHUB
