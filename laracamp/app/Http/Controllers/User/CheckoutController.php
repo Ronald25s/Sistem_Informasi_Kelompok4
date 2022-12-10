@@ -37,9 +37,14 @@ class CheckoutController extends Controller
      * @param  \Illuminate\Http\Request  $request
      * @return \Illuminate\Http\Response
      */
-    public function store(Request $request)
+    public function store(Request $request, Camp $camp)
     {
-        //
+        // mapping request data
+        $data = $request->all();
+        $data['user_id'] = Auth::id();
+        $data['camp_id'] = $camp->id;
+
+        return $data;
     }
 
     /**
