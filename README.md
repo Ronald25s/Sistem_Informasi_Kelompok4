@@ -31,3 +31,7 @@ Spesifikasi Stack dan Framework :
 
 # UI design figma
   - Link:  https://www.figma.com/file/0bPe7NXq1Yp86oUS1Tcj6o/sisfor?node-id=0%3A1&t=t3q4dral1ZJRkyUC-1
+
+# Hal-hal Tambahan
+  - Login menggunakan fitur autentikasi google
+  - Menggunakan fitur inbox email testing = "https://mailtrap.io/" 
