@@ -369,10 +369,10 @@
 															<img src="{{asset('/images/angga.png')}}" class="photo" alt="">
 															<div class="info">
 																	<h4 class="name">
-																			Angga
+																			Faldi
 																	</h4>
 																	<p class="role">
-																			CEO at BWA Corp
+																			Data Analyst 
 																	</p>
 															</div>
 													</div>
@@ -401,7 +401,7 @@
 							<div class="row copyright">
 									<div class="col-lg-12 col-12">
 											<p>
-													All Rights Reserved. Copyright Laracamp BWA Indonesia.
+													All Rights Reserved. Copyright Laracamp 2022.
 											</p>
 									</div>
 							</div>
